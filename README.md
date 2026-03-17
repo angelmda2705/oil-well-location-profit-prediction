@@ -1,9 +1,9 @@
 # oil-well-location-profit-prediction
 ## 📊 Project Overview
 
-OilyGiant, an oil extraction company, wants to identify the best locations to drill **200 new oil wells**. Since drilling operations are extremely expensive, the company needs a **data-driven approach** to maximize profit and minimize financial risk.
+OilyGiant, an oil extraction company, wants to identify the best locations to drill 200 new oil wells. Since drilling operations are extremely expensive, the company needs a data-driven approach to maximize profit and minimize financial risk.
 
-This project uses **machine learning and statistical analysis** to predict oil reserves and determine the most profitable region for drilling new wells.
+This project uses machine learning and statistical analysis to predict oil reserves and determine the most profitable region for drilling new wells.
 
 ---
 
@@ -12,15 +12,15 @@ This project uses **machine learning and statistical analysis** to predict oil r
 The goal is to build a predictive model that helps OilyGiant:
 
 - Estimate oil reserves in potential wells
-- Select the **200 wells with the highest predicted reserves**
-- Identify the **region with the highest expected profit**
-- Evaluate financial risk using **bootstrapping**
+- Select the 200 wells with the highest predicted reserves
+- Identify the region with the highest expected profit
+- Evaluate financial risk using bootstrapping
 
 ---
 
 ## 📂 Dataset
 
-The dataset contains geological data from **three different oil regions**.
+The dataset contains geological data from three different oil regions.
 
 Each oil well includes:
 
